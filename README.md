@@ -1,6 +1,6 @@
 # Analysis of "Unfounded" Rape Reports
 
-This repository contains data, code, and methodologies supporting the September 7, 2016 BuzzFeed News article, ["When Detectives Dismiss Rape Reports Before Investigating Them."](https://www.buzzfeed.com/alexcampbell/unfounded)
+This repository contains data, code, and methodologies supporting the September 8, 2016 BuzzFeed News article, ["When Detectives Dismiss Rape Reports Before Investigating Them."](https://www.buzzfeed.com/alexcampbell/unfounded)
 
 ## Data Sources
 
